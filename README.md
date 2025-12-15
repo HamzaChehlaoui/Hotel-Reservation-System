@@ -291,16 +291,16 @@ The project includes comprehensive test cases in `Main.java`:
 ### Application Output
 
 #### 1. System Startup
-![System Loading](screenshots/Startup.png)
+![System Loading](images/Startup.png)
 
 #### 2. Test Case Execution
-![Test Case Results](screenshots/Test.png)
+![Test Case Results](images/Test.png)
 
 #### 3. printAll() Output
-![PrintAll Output](screenshots/printAll.png)
+![PrintAll Output](images/printAll.png)
 
 #### 4. printAllUsers() Output
-![PrintAllUsers Output](screenshots/printAllUsers.png)
+![PrintAllUsers Output](images/printAllUsers.png)
 
 > **Note**: Create a `screenshots/` directory and add your screenshots there.
 
