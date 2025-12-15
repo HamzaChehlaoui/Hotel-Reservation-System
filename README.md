@@ -2,7 +2,7 @@
 
 A simplified hotel reservation management system built with Java, implementing core booking functionality with robust exception handling and data integrity.
 
-![hotel reservation](screenshots/imageH.png)
+![hotel reservation](images/imageH.png)
 
 ## 📋 Table of Contents
 
